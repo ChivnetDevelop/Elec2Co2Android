@@ -1,5 +1,7 @@
 # Elec2Co2Android
 
+<img width="200" height="200" alt="ic_launcher" src="https://github.com/user-attachments/assets/754357df-2758-4966-a3f4-600adfc526b1" />
+
 Privacy Policy for Elec2CO2Android App on the Google Play Store
 
 General:
@@ -27,6 +29,6 @@ Changes to This Privacy Policy: This Privacy Policy may be periodically updated 
 
 Contact: If you have any questions or suggestions regarding this Privacy Policy, or if you identify any security vulnerability that may have been inadvertently introduced, please feel free to email contact and action will be taken to try to fix it/help you at:
 
-chivnet@outlook.com
+chivnetdevelop@gmail.com
 
-Yours sincerely, The App Developer 26th July 2025
+Yours sincerely, The App Developer 14th November 2026
