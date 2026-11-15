@@ -1,3 +1,6 @@
+
+# THIS APP HAS BEEN RECENTLY UNPUBLISHED ON THE GOOGLE PLAY STORE AND IS NO LONGER TO BE USED.
+
 # Elec2CO2Android App - Privacy and Data Collection Policy
 
 <img width="200" height="200" alt="ic_launcher" src="https://github.com/user-attachments/assets/754357df-2758-4966-a3f4-600adfc526b1" />
